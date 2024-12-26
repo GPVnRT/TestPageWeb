@@ -1,0 +1,13 @@
+.content img {
+    width: 100%; /* Prend la largeur du conteneur (par exemple, le paragraphe) */
+    max-width: 600px; /* Largeur maximale de l'image */
+    height: auto; /* Préserve les proportions */
+}
+
+h1 {
+    color : red;
+}
+
+ body {
+    background-color: yellowgreen ;
+ }
